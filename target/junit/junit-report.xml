@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="24.18">
+    <testcase classname="Library app login feature" name="Login as librarian in the same line" time="23.314">
+        <system-out>
+            <![CDATA[Given user is on the library login page.....................................passed
+When librarian enters "librarian2@library" and "eb2VQKEj"...................passed
+Then librarian should see the dashboard.....................................passed
+And there should be 173 users...............................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
